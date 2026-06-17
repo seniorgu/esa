@@ -6,4 +6,4 @@ Dummy text
 
 ## Section 2
 
-Dummy text
+Dummy text2
