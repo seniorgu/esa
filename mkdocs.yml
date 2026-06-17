@@ -5,5 +5,5 @@ nav:
   - Test: test.md
 
 theme:
-  name: mkdocs
+  name: readthedocs
 
