@@ -5,5 +5,5 @@ nav:
   - Test: test.md
 
 theme:
-  name: readthedocs
+  name: windmill
 
