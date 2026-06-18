@@ -4,6 +4,3 @@ nav:
   - Home: index.md
   - Test: test.md
 
-theme: 
-  name: material
-
