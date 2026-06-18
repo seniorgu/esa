@@ -3,4 +3,13 @@ site_name: Enterprise Solution Architecture (ESA)
 nav:
   - Home: index.md
   - Test: test.md
+  - Test1: test.md
+  - Test2: test.md
+  - Test3: test.md
+  - Test4: test.md
+  - Test5: test.md
+  - Test6: test.md
+  - Test7: test.md
+  - Test8: test.md
+  - Test9: test.md
 
