@@ -1,9 +1,9 @@
 site_name: Enterprise Solution Architecture (ESA) Model
 
 nav:
-  - Intro: index.md
+  - Introduction: index.md
   - Element List: esa-element-list.md
-  - Element Def: esa-element-definition.md
+  - Element Definition: esa-element-definition.md
   - Base Model Elements: esa-base-elements.md
   - Lean Mode Elements: esa-lean-mode-elements.md
   - EA Elements: esa-ea-profile-elements.md
