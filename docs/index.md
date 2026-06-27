@@ -67,3 +67,5 @@ These views reflect the overall ESA viewpoints. You can also use other views in 
 Note that in ESA, the data architecture is not treated as a separate view, because it's cross-cutting, and should be clearly embodied in the ESA model views. The data service is the central part of the solution architecture, and should be given holistic consideration.
 
 ## Source
+
+- *Agile Enterprise Solution Architecture - An IT Service-Based Modeling Approach*/Gu, Sean. Vernal Press, 2021/2026.
