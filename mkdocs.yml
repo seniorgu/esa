@@ -1,15 +1,16 @@
-site_name: Enterprise Solution Architecture (ESA)
+site_name: Enterprise Solution Architecture (ESA) Model
 
 nav:
-  - Home: index.md
-  - Test: test.md
-  - Test1: test.md
-  - Test2: test.md
-  - Test3: test.md
-  - Test4: test.md
-  - Test5: test.md
-  - Test6: test.md
-  - Test7: test.md
-  - Test8: test.md
-  - Test9: test.md
-
+  - Intro: index.md
+  - Element List: esa-element-list.md
+  - Element Def: esa-element-definition.md
+  - Base Model Elements: esa-base-elements.md
+  - Lean Mode Elements: esa-lean-mode-elements.md
+  - EA Elements: esa-ea-profile-elements.md
+  - SW Design Elements: esa-swd-profile-elements.md
+  - SW Arch Elements: esa-swa-profile-elements.md
+  - AI Elements: esa-ai-solution-elements.md
+  - Integration Elements: esa-is-elements.md
+  - BA Elements: esa-business-arch-elements.md
+  - Infra Elements: esa-infra-arch-elements.md
+  - FAQs: esa-faq.md
