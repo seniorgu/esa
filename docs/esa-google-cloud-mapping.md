@@ -7,12 +7,12 @@ Through a mapping between your solution and your chosen cloud service (iterative
 
 - Choose the cloud middleware products as part of your architectural trade-off analysis through an ESA modeling mapping, as each solution has a different focus and therefore different mapping considerations.
 - Focus on the middleware that matters more to your enterprise solution, especially as part of your value, governance, risk, and data service/store considerations.
-  - Focus less on the basic middleware of technical nature, which is part of your solution’s operational infrastructure – the platform takes care of the details.
-  - Pay more attention to your use case and metric elements for the business benefits. The cloud platform provides strong capabilities for monitoring and statistics, but it’s up to you to make the solution decisions.
-  - Especially when you're hosting your solution applications on a cloud platform, your application architecture and deployment strategy still matter as in-house development, because the hard part of scalability often sits at the application layer.
+  1. Focus less on the basic middleware of technical nature, which is part of your solution’s operational infrastructure – the platform takes care of the details.
+  2. Pay more attention to your use case and metric elements for the business benefits. The cloud platform provides strong capabilities for monitoring and statistics, but it’s up to you to make the solution decisions.
+  3. Especially when you're hosting your solution applications on a cloud platform, your application architecture and deployment strategy still matter as in-house development, because the hard part of scalability often sits at the application layer.
 - Have an overall picture of how the cloud platform is integrated with your solution, and what the long-term impact (adaptability and cost-effectiveness).
-  - Instead of solely relying on the architectural views generated from the cloud platform, you need to walk through your significant case scenario(s) for validation and governance decisions.
-  - Keep all critical solution architecture info in the ESA model, rather than relying on detailed and unmanageable documentation. An effective and visual model amplifies your architectural thinking process.
+  1. Instead of solely relying on the architectural views generated from the cloud platform, you need to walk through your significant case scenario(s) for validation and governance decisions.
+  2. Keep all critical solution architecture info in the ESA model, rather than relying on detailed and unmanageable documentation. An effective and visual model amplifies your architectural thinking process.
 
 In short, for your cloud-based solution, do an initial mapping of the cloud middleware (see the following example), build your ESA model views via iterations, and have a systematic view (intent, functional, operational, and integration) of your solutions.
 
@@ -164,5 +164,3 @@ In short, for your cloud-based solution, do an initial mapping of the cloud midd
 ## Source
 
 - [Google Cloud products at a glance]([Google Cloud products at a glance  |  Google Cloud Documentation](https://docs.cloud.google.com/docs/product-list))
-
-
