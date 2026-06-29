@@ -161,6 +161,6 @@ In short, for your cloud-based solution, do an initial mapping of the cloud midd
 | Storage                             | Cloud Storage                                | Data Store        | Storage               |
 | Storage                             | Filestore                                    | Data Store        | Storage               |
 
-## Source
+## Reference
 
 - [Google Cloud products at a glance]([Google Cloud products at a glance  |  Google Cloud Documentation](https://docs.cloud.google.com/docs/product-list))
