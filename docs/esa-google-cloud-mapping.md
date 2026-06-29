@@ -1,7 +1,7 @@
 # ESA Mapping with Cloud Platforms
 
 In reality, many enterprise solutions are complex, beyond the cloud platform solutions. Even when your enterprise fully depends on the cloud platform, you still need to have a clear ESA for a better understanding of your IT architecture, beyond the technical platform. 
-Cloud platforms basically provide a bunch of cloud-based middleware or services. Instead of developing and hosting on your own, you spend time configuring your solution. 
+Cloud platforms basically provide a bunch of cloud-based middleware or services. Instead of developing and hosting on your own, you depend on the cloud platform as a service, whether SaaS, PaaS or IaaS. 
 
 Through a mapping between your solution and your chosen cloud service (iteratively for the changes), you can achieve the following:
 
