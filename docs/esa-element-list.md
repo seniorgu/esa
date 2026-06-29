@@ -50,7 +50,7 @@
 | Category                  | Element               | Prefix | Implication                          | Base Mapping                      |
 | ------------------------- | --------------------- | ------ | ------------------------------------ | --------------------------------- |
 | Solution Management       | Issue &  Constraint   | CS     | Problem                              | Risk                              |
-| Solution Management       | Stage                 | ST     | Product, Solution  Model, View Frame | Deliverable                       |
+| Solution Management       | Stage (Optional)      | ST     | Product, Solution  Model, View Frame | Deliverable                       |
 | Architectural Style       | Frontend              | FE     |                                      | System Device                     |
 | Architectural Style       | Cloud                 | CL     |                                      | Domain                            |
 | Architectural Style       | Microservice          | MS     |                                      | Generic Service,  Deployment Unit |
@@ -61,7 +61,7 @@
 | DevOps                    | Governance  Control   | GO     | Governance  Operation                | Governance                        |
 | Software Design           | Object                | OB     | Entity, Component                    | Service Component                 |
 | Software Design           | Module                | MO     |                                      | Domain                            |
-| Software Design           | Data File             | TB     | Table, File,  Artifact               | Artifact                          |
+| Software Design           | Data File (Optional)  | TB     | Table, File,  Artifact               | Artifact                          |
 | Software Design           | Schema                | SM     |                                      | Domain                            |
 | Software Design           | Transaction           | TR     |                                      | Domain                            |
 | Software Design           | Repository  & Library | RP     |                                      | Artifact                          |
@@ -77,20 +77,17 @@
 | AI-Specific               | Knowledge  Access     | KA     |                                      | Data Service                      |
 | AI-Specific               | Tool &  Action        | TL     |                                      | Tech Service                      |
 | AI-Specific               | AI/ML Lifecycle       | AL     |                                      | Process,  Capability              |
-| Business                  | Product               | PD     |                                      | Deliverable                       |
+| Business                  | Product (Optional)    | PD     |                                      | Deliverable                       |
 | Business                  | Value                 | VL     |                                      | Intent                            |
 | Infrastructure            | Zone                  | ZN     | Domain                               | Group                             |
 | Infrastructure            | Tier                  | TE     |                                      | Domain                            |
-| Assistive Options         | OS                    | ND     |                                      | Node                              |
-| Assistive Options         | Firewall              | NW     |                                      | Network                           |
-| Assistive Options         | Switch                | NW     | Hub                                  | Network                           |
-| Assistive Options         | Server                | MW     |                                      | Middleware                        |
-| Assistive Options         | Device                | SY     |                                      | System                            |
-| Assistive Options         | Storage               | SY     |                                      | Data Store,  System Device        |
-| Assistive Options         | Virtual Server        | VS     |                                      | Virtual Service                   |
-| Assistive Options         | Security Threat       | RK     |                                      | Risk                              |
-| Assistive Options         | Rack                  | EX     |                                      | Extension                         |
-| Assistive Options         | Function              | GS     |                                      | Generic Service,  Use Case        |
-| Assistive Options         | Analytics             | MW     |                                      | Middleware                        |
-| Assistive Options         | Activity              | TK     |                                      | Task                              |
-| Assistive Options         | Value Stream          | PS     |                                      | Process                           |
+
+## Part 3. Assistive Elements Options
+
+[Part 3](esa-assistive-options.md) is a list of additional elements beyond the foundational (Part 1) and assistive (Part 2) elements. They are not required in ESA but are often used for habitual diagramming or easier understanding.
+
+## Part 4. Cloud Solution Elements
+
+Refer to the specific cloud platform’s middleware, products, or services when designing the detailed cloud solution(s). [Here](esa-google-cloud-mapping.md) is an example ESA mapping of the Google Cloud middleware and services. Mapping to other cloud platforms is similar.
+
+Note that ESA is designed for a **holistic view** of your enterprise solution rooted in **simplicity** and **significance**, so your cloud solution design needs to be elevated to a meaningful ESA model to facilitate your overall architectural thinking.
