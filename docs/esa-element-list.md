@@ -47,40 +47,40 @@
 
 ## Part 2. Assistive Element List
 
-| Category                  | Element               | Prefix | Implication                          | Base Mapping                      |
-| ------------------------- | --------------------- | ------ | ------------------------------------ | --------------------------------- |
-| Solution Management       | Issue &  Constraint   | CS     | Problem                              | Risk                              |
-| Solution Management       | Stage (Optional)      | ST     | Product, Solution  Model, View Frame | Deliverable                       |
-| Architectural Style       | Frontend              | FE     |                                      | System Device                     |
-| Architectural Style       | Cloud                 | CL     |                                      | Domain                            |
-| Architectural Style       | Microservice          | MS     |                                      | Generic Service,  Deployment Unit |
-| Architectural Style       | Event Service         | ES     |                                      | Tech Service                      |
-| DevOps                    | Quality Metric        | QM     |                                      | Requirement                       |
-| DevOps                    | Governance  Function  | GF     |                                      | Governance                        |
-| DevOps                    | Quality &  Adaptation | QV     |                                      | Governance, View  Frame           |
-| DevOps                    | Governance  Control   | GO     | Governance  Operation                | Governance                        |
-| Software Design           | Object                | OB     | Entity, Component                    | Service Component                 |
-| Software Design           | Module                | MO     |                                      | Domain                            |
-| Software Design           | Data File (Optional)  | TB     | Table, File,  Artifact               | Artifact                          |
-| Software Design           | Schema                | SM     |                                      | Domain                            |
-| Software Design           | Transaction           | TR     |                                      | Domain                            |
-| Software Design           | Repository  & Library | RP     |                                      | Artifact                          |
-| Integration & Scalability | Message Service       | MG     |                                      | Data Service                      |
-| Integration & Scalability | Edge &  Adapter       | EG     |                                      | Middleware                        |
-| Integration & Scalability | Gateway Service       | GW     |                                      | Middleware                        |
-| Integration & Scalability | Service Broker        | SB     |                                      | Middleware                        |
-| Integration & Scalability | Cache Service         | CA     |                                      | Data Service                      |
-| AI-Specific               | Agent                 | AG     |                                      | Generic Service,  App Logic       |
-| AI-Specific               | AI Coordinator        | AC     |                                      | Process                           |
-| AI-Specific               | Context State         | CN     |                                      | Data Service                      |
-| AI-Specific               | Model &  Reasoning    | ML     |                                      | Data Service                      |
-| AI-Specific               | Knowledge  Access     | KA     |                                      | Data Service                      |
-| AI-Specific               | Tool &  Action        | TL     |                                      | Tech Service                      |
-| AI-Specific               | AI/ML Lifecycle       | AL     |                                      | Process,  Capability              |
-| Business                  | Product (Optional)    | PD     |                                      | Deliverable                       |
-| Business                  | Value                 | VL     |                                      | Intent                            |
-| Infrastructure            | Zone                  | ZN     | Domain                               | Group                             |
-| Infrastructure            | Tier                  | TE     |                                      | Domain                            |
+| Category                  | Element                 | Prefix | Implication                          | Base Mapping                      |
+| ------------------------- | ----------------------- | ------ | ------------------------------------ | --------------------------------- |
+| Solution Management       | Issue &  Constraint     | CS     | Problem                              | Risk                              |
+| Solution Management       | Stage (*less used*)     | ST     | Product, Solution  Model, View Frame | Deliverable                       |
+| Architectural Style       | Frontend                | FE     |                                      | System Device                     |
+| Architectural Style       | Cloud                   | CL     |                                      | Domain                            |
+| Architectural Style       | Microservice            | MS     |                                      | Generic Service,  Deployment Unit |
+| Architectural Style       | Event Service           | ES     |                                      | Tech Service                      |
+| DevOps                    | Quality Metric          | QM     |                                      | Requirement                       |
+| DevOps                    | Governance  Function    | GF     |                                      | Governance                        |
+| DevOps                    | Quality &  Adaptation   | QV     |                                      | Governance, View  Frame           |
+| DevOps                    | Governance  Control     | GO     | Governance  Operation                | Governance                        |
+| Software Design           | Object                  | OB     | Entity, Component                    | Service Component                 |
+| Software Design           | Module                  | MO     |                                      | Domain                            |
+| Software Design           | Data File (*less used*) | TB     | Table, File,  Artifact               | Artifact                          |
+| Software Design           | Schema                  | SM     |                                      | Domain                            |
+| Software Design           | Transaction             | TR     |                                      | Domain                            |
+| Software Design           | Repository  & Library   | RP     |                                      | Artifact                          |
+| Integration & Scalability | Message Service         | MG     |                                      | Data Service                      |
+| Integration & Scalability | Edge &  Adapter         | EG     |                                      | Middleware                        |
+| Integration & Scalability | Gateway Service         | GW     |                                      | Middleware                        |
+| Integration & Scalability | Service Broker          | SB     |                                      | Middleware                        |
+| Integration & Scalability | Cache Service           | CA     |                                      | Data Service                      |
+| AI-Specific               | Agent                   | AG     |                                      | Generic Service,  App Logic       |
+| AI-Specific               | AI Coordinator          | AC     |                                      | Process                           |
+| AI-Specific               | Context State           | CN     |                                      | Data Service                      |
+| AI-Specific               | Model &  Reasoning      | ML     |                                      | Data Service                      |
+| AI-Specific               | Knowledge  Access       | KA     |                                      | Data Service                      |
+| AI-Specific               | Tool &  Action          | TL     |                                      | Tech Service                      |
+| AI-Specific               | AI/ML Lifecycle         | AL     |                                      | Process,  Capability              |
+| Business                  | Product (*less used*)   | PD     |                                      | Deliverable                       |
+| Business                  | Value                   | VL     |                                      | Intent                            |
+| Infrastructure            | Zone                    | ZN     | Domain                               | Group                             |
+| Infrastructure            | Tier                    | TE     |                                      | Domain                            |
 
 ## Part 3. Assistive Elements Options
 

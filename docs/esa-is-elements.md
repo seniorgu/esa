@@ -48,4 +48,4 @@
 | Integration & Scalability    | Cache  Service      | CA     |
 | Infrastructure               | Zone                | ZN     |
 | Infrastructure               | Tier                | TE     |
-| Assistive Options            | Analytics           | MW     |
+| Assistive Options            | Analytics           | AA     |

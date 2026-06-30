@@ -23,7 +23,7 @@
 | AI-Specific                  | Agent               | AG     |
 | Business                     | Product             | PD     |
 | Business                     | Value               | VL     |
-| Assistive Options            | Function            | GS     |
-| Assistive Options            | Analytics           | MW     |
-| Assistive Options            | Activity            | TK     |
-| Assistive Options            | Value  Stream       | PS     |
+| Assistive Options            | Function            | BF     |
+| Assistive Options            | Analytics           | AA     |
+| Assistive Options            | Activity            | AV     |
+| Assistive Options            | Value  Stream       | VP     |

@@ -18,12 +18,11 @@
 | Architectural Style          | Cloud            | CL     |
 | Infrastructure               | Zone             | ZN     |
 | Infrastructure               | Tier             | TE     |
-| Assistive Options            | OS               | ND     |
-| Assistive Options            | Firewall         | NW     |
-| Assistive Options            | Switch           | NW     |
-| Assistive Options            | Server           | MW     |
-| Assistive Options            | Device           | SY     |
-| Assistive Options            | Storage          | SY     |
-| Assistive Options            | Virtual  Server  | VS     |
-| Assistive Options            | Security  Threat | RK     |
-| Assistive Options            | Rack             | EX     |
+| Assistive Options            | Firewall         | FI     |
+| Assistive Options            | Switch           | RT     |
+| Assistive Options            | Server           | SR     |
+| Assistive Options            | Device           | DV     |
+| Assistive Options            | Storage          | SE     |
+| Assistive Options            | Virtual  Server  | VE     |
+| Assistive Options            | Security  Threat | TH     |
+| Assistive Options            | Rack             | RC     |
