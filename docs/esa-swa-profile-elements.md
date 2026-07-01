@@ -27,7 +27,7 @@
 | DevOps                       | Governance  Function  | GF     |
 | Software Design              | Object                | OB     |
 | Software Design              | Module                | MO     |
-| Software Design              | Data  File            | TB     |
+| Software Design              | Domain                | DM     |
 | Software Design              | Schema                | SM     |
 | Software Design              | Transaction           | TR     |
 | Software Design              | Repository  & Library | RP     |

@@ -5,8 +5,9 @@
 | Category                     | Element             | Prefix |
 | ---------------------------- | ------------------- | ------ |
 | Intent & Metrics             | Use  Case           | UC     |
-| Functional / Application     | Interface           | SI     |
-| Functional / Application     | Service  Component  | SC     |
+| Application Design           | Interface           | SI     |
+| Application Design           | Service  Component  | SC     |
+| Application Design           | Object              | OB     |
 | Operational / Infrastructure | Deployment  Package | DP     |
 | Operational / Infrastructure | Node                | ND     |
 | Operational / Infrastructure | System              | SY     |
@@ -15,4 +16,3 @@
 | General                      | Grouping            | GP     |
 | General                      | Artifact            | AR     |
 | General                      | Note                | NT     |
-| Software Design              | Object              | OB     |

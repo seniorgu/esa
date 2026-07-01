@@ -91,3 +91,7 @@
 Refer to the specific cloud platform’s middleware, products, or services when designing the detailed cloud solution(s). [Here](esa-google-cloud-mapping.md) is an example ESA mapping of the Google Cloud middleware and services. Mapping to other cloud platforms is similar.
 
 Note that ESA is designed for a **holistic view** of your enterprise solution rooted in **simplicity** and **significance**, so your cloud solution design needs to be elevated to a meaningful ESA model to facilitate your overall architectural thinking.
+
+## Categorization
+
+Element category is somewhat flexible depending on each usage scenario or profile mode.
