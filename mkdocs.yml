@@ -18,8 +18,5 @@ nav:
 theme:
   name: material
 
-extra:
-  generator: false    
 
-copyright: "ESA's S3 principle: Simple, Significant and Systematic."
 
