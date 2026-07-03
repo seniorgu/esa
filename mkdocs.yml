@@ -18,5 +18,6 @@ nav:
 theme:
   name: material
 
-
+extra:
+  generator: false 
 
