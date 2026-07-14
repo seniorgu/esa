@@ -68,4 +68,4 @@ Note that in ESA, the data architecture is not treated as a separate view, becau
 
 ## Source
 
-- *Agile Enterprise Solution Architecture - An IT Service-Based Modeling Approach*/Gu, Sean. Vernal Press, 2021/2026.
+- [Agile Enterprise Solution Architecture](https://www.amazon.com/dp/B09FL5Q8XC)/Gu, Sean. Vernal Press, 2021/2026.
