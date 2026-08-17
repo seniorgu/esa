@@ -82,7 +82,7 @@
 | Infrastructure            | Zone                    | ZN     | Domain                               | Group                             |
 | Infrastructure            | Tier                    | TE     |                                      | Domain                            |
 
-## Part 3. Assistive Elements Options
+## Part 3. Add-on Assistive Elements
 
 [Part 3](esa-assistive-options.md) is a list of additional elements beyond the foundational (Part 1) and assistive (Part 2) elements. They are not required in ESA but are often used for habitual diagramming or easier understanding.
 
