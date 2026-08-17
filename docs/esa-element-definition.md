@@ -47,50 +47,50 @@
 
 ## Part 2. Common Assistive Elements
 
-| Element              | Brief  Definition                                                                                                                                                                 |
-| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Activity             | Refers to any action or process to provide services or generate revenue, as part of the Task element definition.                                                                  |
-| Agent                | Represents an  autonomous AI entity capable of goal-directed reasoning, planning, and  action.                                                                                    |
-| AI Coordinator       | Represents the  coordination logic, workflow control, and multi-agent management that  sequences and routes AI operations.                                                        |
-| AI/ML Lifecycle      | Represents the  lifecycle management processes for model training, experimentation,  versioning, and deployment.                                                                  |
-| Analytics            | Represents the process or software system to extract meaningful insights and make predictions, as part of the Middleware element definition.                                      |
-| Cache Service        | Represents a  temporary data store that improves performance through fast data access.                                                                                            |
-| Cloud                | Represents  on-demand computing capabilities and resources available as a service.                                                                                                |
-| Context State        | Represents the  mechanisms for managing conversational state, memory, prompt engineering, and  interaction coherence.                                                             |
-| Data File            | Represents a  collective of data intended to be implemented by software applications.                                                                                             |
-| Device               | Represents a physical hardware capable of receiving, processing, and outputting data, as part of the System element definition.                                                   |
-| Edge & Adapter       | Represents a  component that enables integration between otherwise incompatible systems or  interfaces.                                                                           |
-| Event Service        | Represents the  handling of system state changes and notifications.                                                                                                               |
-| Firewall             | Represents a network security system that monitors and controls traffic based on predefined rules, as part of the Network element definition.                                     |
-| Frontend             | Represents the  user access channels and mechanisms such as mobile devices, browsers, PC,  etc.                                                                                   |
-| Function             | Refers to a group of related activities or tasks in business to achieve an organization's goals and deliver value, as part of the Generic Service or Use Case element definition. |
-| Gateway Service      | Represents a  unified access point that manages, secures, and routes service interactions.                                                                                        |
-| Governance Control   | Represents  operational mechanisms that enforce policies, security, compliance, and  oversight.                                                                                   |
-| Governance Function  | Represents  rules, design specifications, or nonfunctional requirements that govern  architectural characteristics.                                                               |
-| Issue & Constraint   | Represents the  issues, limitations, assumptions, and dependencies that shape and bound the  solution space.                                                                      |
-| Knowledge Access     | Represents the  semantic retrieval, embedding, and knowledge management capabilities that  ground AI responses in relevant information.                                           |
-| Message Service      | Represents the  contracts, events, and messages exchanged between services or components.                                                                                         |
-| Microservice         | Represents a  well-defined bounded context or an independently deployable unit.                                                                                                   |
-| Model & Reasoning    | Represents the  models, inference engines, and reasoning frameworks that generate  predictions, decisions, or outputs.                                                            |
-| Module               | Represents a  self-contained unit of implementation within a larger application                                                                                                   |
-| Object               | Represents a  distinct, identifiable object within a software domain                                                                                                              |
-| OS                   | Part of the  Node element definition                                                                                                                                              |
-| Product              | Represents a  piece of physical software, equipment, and the like offered as a whole.                                                                                             |
-| Quality & Adaptation | Represents the  validation and continuous improvement mechanisms that assess solution quality  and performance.                                                                   |
-| Quality Metric       | Represents a  measurable indicator of solution quality, development, or operational  effectiveness.                                                                               |
-| Rack                 | Represents a standardized metal frame designed to securely house and organize IT equipment, as part of the Extension element definition.                                          |
-| Repository & Library | Represents a  storage place for software assets, packages, or reusable components.                                                                                                |
-| Schema               | Represents a  structure that defines how data is organized and managed in a database.                                                                                             |
-| Security Threat      | Represents an action or virus that has the potential to cause damage to information systems, and networks, as part of the Risk element definition.                                |
-| Server               | Represents a specialized software system designed to manage, and deliver data or services to other devices (clients), as part of the Middleware element definition.               |
-| Service Broker       | Represents an  intermediary service that coordinates message exchange between loosely  coupled components.                                                                        |
-| Stage                | Represents a  scoped solution increment or state with defined outcomes and acceptance  criteria, along with its associated resources.                                             |
-| Storage              | Refers to where a computer keeps digital data for later use, as generally part of the System element definition.                                                                  |
-| Switch               | Represents the sharing of resources by connecting together the network devices, as part of the Network element definition.                                                        |
-| Tier                 | Represents a  physical group of system elements within an environment, such as a localized  server fleet.                                                                         |
-| Tool & Action        | Represents  external functions, plugins, and third-party services that extend AI  capabilities through invocation.                                                                |
-| Transaction          | Represents a  sequence of one or more data operations that are treated as a unit to ensure  data consistency and integrity.                                                       |
-| Value                | Represents the  relative importance or worth of a concept or vision from an enterprise  perspective.                                                                              |
-| Value Stream         | Represents the end-to-end sequence of activities to deliver value to a customer or stakeholder, as part of the Value or Process element definition.                               |
-| Virtual Server       | Represents a software-based server created by partitioning a physical server into multiple isolated environments, as part of the Virtual Service element definition.              |
-| Zone                 | Represents a  logical segment of a network that groups resources or devices based on  policies.                                                                                   |
+| Element              | Brief  Definition                                                                                                                       |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Activity             | Refers to any action or process to provide services or generate revenue.                                                                |
+| Agent                | Represents an  autonomous AI entity capable of goal-directed reasoning, planning, and  action.                                          |
+| AI Coordinator       | Represents the  coordination logic, workflow control, and multi-agent management that  sequences and routes AI operations.              |
+| AI/ML Lifecycle      | Represents the  lifecycle management processes for model training, experimentation,  versioning, and deployment.                        |
+| Analytics            | Represents the process or software system to extract meaningful insights and make predictions.                                          |
+| Cache Service        | Represents a  temporary data store that improves performance through fast data access.                                                  |
+| Cloud                | Represents  on-demand computing capabilities and resources available as a service.                                                      |
+| Context State        | Represents the  mechanisms for managing conversational state, memory, prompt engineering, and  interaction coherence.                   |
+| Data File            | Represents a  collective of data intended to be implemented by software applications.                                                   |
+| Device               | Represents a physical hardware capable of receiving, processing, and outputting data.                                                   |
+| Edge & Adapter       | Represents a  component that enables integration between otherwise incompatible systems or  interfaces.                                 |
+| Event Service        | Represents the  handling of system state changes and notifications.                                                                     |
+| Firewall             | Represents a network security system that monitors and controls traffic based on predefined rules.                                      |
+| Frontend             | Represents the  user access channels and mechanisms such as mobile devices, browsers, PC,  etc.                                         |
+| Function             | Refers to a group of related activities or tasks in business to achieve an organization's goals and deliver value.                      |
+| Gateway Service      | Represents a  unified access point that manages, secures, and routes service interactions.                                              |
+| Governance Control   | Represents  operational mechanisms that enforce policies, security, compliance, and  oversight.                                         |
+| Governance Function  | Represents  rules, design specifications, or nonfunctional requirements that govern  architectural characteristics.                     |
+| Issue & Constraint   | Represents the  issues, limitations, assumptions, and dependencies that shape and bound the  solution space.                            |
+| Knowledge Access     | Represents the  semantic retrieval, embedding, and knowledge management capabilities that  ground AI responses in relevant information. |
+| Message Service      | Represents the  contracts, events, and messages exchanged between services or components.                                               |
+| Microservice         | Represents a  well-defined bounded context or an independently deployable unit.                                                         |
+| Model & Reasoning    | Represents the  models, inference engines, and reasoning frameworks that generate  predictions, decisions, or outputs.                  |
+| Module               | Represents a  self-contained unit of implementation within a larger application                                                         |
+| Object               | Represents a  distinct, identifiable object within a software domain                                                                    |
+| OS                   | Part of the  Node element definition                                                                                                    |
+| Product              | Represents a  piece of physical software, equipment, and the like offered as a whole.                                                   |
+| Quality & Adaptation | Represents the  validation and continuous improvement mechanisms that assess solution quality  and performance.                         |
+| Quality Metric       | Represents a  measurable indicator of solution quality, development, or operational  effectiveness.                                     |
+| Rack                 | Represents a standardized metal frame designed to securely house and organize IT equipment.                                             |
+| Repository & Library | Represents a  storage place for software assets, packages, or reusable components.                                                      |
+| Schema               | Represents a  structure that defines how data is organized and managed in a database.                                                   |
+| Security Threat      | Represents an action or virus that has the potential to cause damage to information systems, and networks.                              |
+| Server               | Represents a specialized software system designed to manage, and deliver data or services to other devices (clients).                   |
+| Service Broker       | Represents an  intermediary service that coordinates message exchange between loosely  coupled components.                              |
+| Stage                | Represents a  scoped solution increment or state with defined outcomes and acceptance  criteria, along with its associated resources.   |
+| Storage              | Refers to where a computer keeps digital data for later use.                                                                            |
+| Switch               | Represents the sharing of resources by connecting together the network devices.                                                         |
+| Tier                 | Represents a  physical group of system elements within an environment, such as a localized  server fleet.                               |
+| Tool & Action        | Represents  external functions, plugins, and third-party services that extend AI  capabilities through invocation.                      |
+| Transaction          | Represents a  sequence of one or more data operations that are treated as a unit to ensure  data consistency and integrity.             |
+| Value                | Represents the  relative importance or worth of a concept or vision from an enterprise  perspective.                                    |
+| Value Stream         | Represents the end-to-end sequence of activities to deliver value to a customer or stakeholder.                                         |
+| Virtual Server       | Represents a software-based server created by partitioning a physical server into multiple isolated environments.                       |
+| Zone                 | Represents a  logical segment of a network that groups resources or devices based on  policies.                                         |
