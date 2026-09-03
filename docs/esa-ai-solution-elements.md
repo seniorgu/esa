@@ -1,6 +1,6 @@
 # AI Solution Elements
 
-> Part of Enterprise Solution Architecture (ESA) Elements
+Part of Enterprise Solution Architecture (ESA) Elements
 
 | Category                     | Element               | Prefix |
 | ---------------------------- | --------------------- | ------ |
