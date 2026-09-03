@@ -68,7 +68,7 @@ Note that in ESA, the data architecture is not treated as a separate view, becau
 
 ### Supported AI Skill Tool for ESA
 
-> Use **ArchView** **AI Skill Tool** for quick ASA model views. See this [link](https://a-esa.com/archview-an-ai-skill-for-quick-solution-architecture/) for intro and installation.
+> Use **ArchView** **AI Skill Tool** for quick ESA model views. See this [link](https://a-esa.com/archview-an-ai-skill-for-quick-solution-architecture/) for intro and installation.
 
 ## Source
 
