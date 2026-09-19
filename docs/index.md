@@ -28,6 +28,7 @@ ESA is suitable for most types of IT solution architecture. It can be used widel
 | 8   | [IS Profile](esa-is-elements.md) (Integration & Scalability)      | Provides a list of elements primarily used in integration or high-availability (HA) solutions                                        | Integration architects, ESA architects, and HA architects. |
 | 9   | [BA Profile](esa-business-arch-elements.md) (Business Arch)       | Provides a list of elements for business architecture in a focused and simpler manner                                                | Business architects and enterprise architects              |
 | 10  | [Infra Profile](esa-infra-arch-elements.md) (Infrastructure Arch) | Provides a list of elements for infrastructure architecture in a blueprint and guidance approach                                     | Infrastructure architects and network architects           |
+| 11  | [SA](esa-solution-arch-elements.md) (Solution Arch)               | Provides a list of commonly used  architectural elements in typical solutions                                                        | Solution architects, ESA architects, software architects   |
 
 ESA adopts an element-first approach. The foundational elements serve to judge your ESA model. For the completeness and soundness of your ESA model:
 
